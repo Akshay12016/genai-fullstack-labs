@@ -1,0 +1,19 @@
+Product: iPhone 14
+Category: Mobile
+Price: 799
+Features: A15 Bionic chip, 128GB storage, Dual camera.
+
+Product: Samsung Galaxy S23
+Category: Mobile
+Price: 749
+Features: Snapdragon processor, AMOLED display, Triple camera.
+
+Product: MacBook Air M2
+Category: Laptop
+Price: 1199
+Features: Apple M2 chip, 16GB RAM, 512GB SSD.
+
+Product: Dell XPS 13
+Category: Laptop
+Price: 999
+Features: Intel i7, 16GB RAM, 1TB SSD.

@@ -1,0 +1,2 @@
+LangChain is a framework for building LLM-powered applications.
+It supports RAG, agents, tools, and graphs.
